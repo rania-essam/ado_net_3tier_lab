@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\DAY4\DotNetBanha\DotNetR2Banha\Ado.net.BLL\Ado.net.BLL.csproj" />
+    <ProjectReference Include="..\..\DAY4\DotNetBanha\DotNetR2Banha\Ado.net.DAL\Ado.net.DAL.csproj" />
+  </ItemGroup>
+
+</Project>
