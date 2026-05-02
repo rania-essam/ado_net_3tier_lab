@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="../DAY4/TASK4/Ado.net.BLL/Ado.net.BLL.csproj" />
+  <Project Path="../DAY4/TASK4/Ado.net.DAL/Ado.net.DAL.csproj" />
+  <Project Path="ADO.NETPresentation Layer/ADO.NETPresentation Layer.csproj" Id="ba0b869f-2367-4d7f-a72c-61cae73202e6" />
+</Solution>
